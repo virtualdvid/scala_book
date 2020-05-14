@@ -3,3 +3,6 @@ object Hello{
         println("Hello World!")
     }
 }
+
+// Say hello to the first argument
+// args.foreach(println)
