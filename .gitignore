@@ -2,5 +2,6 @@
 .metals
 .vscode
 .ipynb_checkpoints
+almond
 project
 target
