@@ -18,14 +18,14 @@ If you want to run the notebooks do:
 Foreword
 Acknowledgments
 Introduction
-1. [A Scalable Language](https://github.com/virtualdvid/scala_book/blob/master/chapters/Chapter_1.ipynb)
-2. [First Steps in Scala](https://github.com/virtualdvid/scala_book/blob/master/chapters/Chapter_2.ipynb)
-3. [Next Steps in Scala](https://github.com/virtualdvid/scala_book/blob/master/chapters/Chapter_3.ipynb)
-4. [Classes and Objects](https://github.com/virtualdvid/scala_book/blob/master/chapters/Chapter_4.ipynb)
-5. [Basic Types and Operations](https://github.com/virtualdvid/scala_book/blob/master/chapters/Chapter_5.ipynb)
-6. [Functional Objects](https://github.com/virtualdvid/scala_book/blob/master/chapters/Chapter_6.ipynb)
-7. [Built-in Control Structures](https://github.com/virtualdvid/scala_book/blob/master/chapters/Chapter_7.ipynb)
-8. [Functions and Closures](https://github.com/virtualdvid/scala_book/blob/master/chapters/Chapter_8.ipynb)
+1. [A Scalable Language](https://github.com/virtualdvid/scala_book/blob/master/chapters/chapter_1.ipynb)
+2. [First Steps in Scala](https://github.com/virtualdvid/scala_book/blob/master/chapters/chapter_2.ipynb)
+3. [Next Steps in Scala](https://github.com/virtualdvid/scala_book/blob/master/chapters/chapter_3.ipynb)
+4. [Classes and Objects](https://github.com/virtualdvid/scala_book/blob/master/chapters/chapter_4.ipynb)
+5. [Basic Types and Operations](https://github.com/virtualdvid/scala_book/blob/master/chapters/chapter_5.ipynb)
+6. [Functional Objects](https://github.com/virtualdvid/scala_book/blob/master/chapters/chapter_6.ipynb)
+7. [Built-in Control Structures](https://github.com/virtualdvid/scala_book/blob/master/chapters/chapter_7.ipynb)
+8. [Functions and Closures](https://github.com/virtualdvid/scala_book/blob/master/chapters/chapter_8.ipynb)
 9. Control Abstraction
 10. Composition and Inheritance
 11. Scala's Hierarchy
