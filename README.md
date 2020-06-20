@@ -26,8 +26,8 @@ Introduction
 6. [Functional Objects](https://github.com/virtualdvid/scala_book/blob/master/chapters/chapter_6.ipynb)
 7. [Built-in Control Structures](https://github.com/virtualdvid/scala_book/blob/master/chapters/chapter_7.ipynb)
 8. [Functions and Closures](https://github.com/virtualdvid/scala_book/blob/master/chapters/chapter_8.ipynb)
-9. [Control Abstraction](https://github.com/virtualdvid/scala_book/blob/master/chapters/chapte9_8.ipynb)
-10. Composition and Inheritance
+9. [Control Abstraction](https://github.com/virtualdvid/scala_book/blob/master/chapters/chapte_9.ipynb)
+10. [Composition and Inheritance](https://github.com/virtualdvid/scala_book/blob/master/chapters/chapte_10.ipynb)
 11. Scala's Hierarchy
 12. Traits
 13. Packages and Imports
