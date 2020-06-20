@@ -2,6 +2,7 @@
 .metals
 .vscode
 .ipynb_checkpoints
-almond
+.pytest_cache
+*.class
 project
 target
